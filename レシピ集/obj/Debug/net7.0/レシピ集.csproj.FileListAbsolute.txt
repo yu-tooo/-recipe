@@ -1,0 +1,14 @@
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\bin\Debug\net7.0\レシピ集.exe
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\bin\Debug\net7.0\レシピ集.deps.json
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\bin\Debug\net7.0\レシピ集.runtimeconfig.json
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\bin\Debug\net7.0\レシピ集.dll
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\bin\Debug\net7.0\レシピ集.pdb
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.AssemblyInfoInputs.cache
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.AssemblyInfo.cs
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.csproj.CoreCompileInputs.cache
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.dll
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\refint\レシピ集.dll
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.pdb
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\レシピ集.genruntimeconfig.cache
+C:\Users\tegmo\Desktop\MyPractice\C#\レシピ集\レシピ集\obj\Debug\net7.0\ref\レシピ集.dll
